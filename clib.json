@@ -1,6 +1,6 @@
 {
     "name": "matrices",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "repo": "goodcleanfun/matrices",
     "description": "Simple generic matrices",
     "keywords": ["matrix", "array", "numeric"],

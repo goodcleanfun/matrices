@@ -1,0 +1,26 @@
+{
+    "name": "matrices",
+    "version": "0.0.0",
+    "repo": "goodcleanfun/matrices",
+    "description": "Simple generic matrices",
+    "keywords": ["matrix", "array", "numeric"],
+    "license": "MIT",
+    "dependencies": {
+      "goodcleanfun/vector": "*",
+      "goodcleanfun/file_utils": "*",
+      "goodcleanfun/logging": "*",
+      "goodcleanfun/sorting": "*",
+      "goodcleanfun/num_arrays": "*"
+    },
+    "src": [
+      "src/matrix.h",
+      "src/double_matrix.h",
+      "src/float_matrix.h",
+      "src/uint32_matrix.h"
+    ],
+    "development": {
+      "silentbicycle/greatest": "1.5.0"
+    }
+    
+  }  
+  
